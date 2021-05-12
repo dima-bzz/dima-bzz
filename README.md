@@ -7,15 +7,26 @@
 
 **Languages and Tools:** 
 
-<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_128x128.png?raw=true"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/7071bdb7bef2504a84f1da4f62e771727e9ad9724d1b1c088d057ff5a4bbc77f/68747470733a2f2f692e6962622e636f2f564c736e5062312f3132303070782d4c61726176656c2d7376672e706e67"></code>
-<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png?raw=true"></code>
-<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_128x128.png?raw=true"></code>
-<code><img height="20" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_128x128.png?raw=true"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/0a16218f80a1832b5244500de2367b6985e2077efc4cd1f0c71dc38a4a348740/68747470733a2f2f6a656e6b696e732e696f2f696d616765732f6c6f676f732f6a656e6b696e732f6a656e6b696e732e706e67"></code>
+<img align="left" alt="VIM" width="26px" src="https://api.iconify.design/cib:vim.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Git" width="26px" src="https://api.iconify.design/cib:git.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/codicon:github.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Ubuntu" width="26px" src="https://api.iconify.design/simple-icons:ubuntu.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Linux" width="26px" src="https://api.iconify.design/cib:linux.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="GitLab" width="26px" src="https://api.iconify.design/cib:gitlab.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Puppet" width="18px" src="https://api.iconify.design/file-icons:puppet.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Docker" width="26px" src="https://api.iconify.design/cib:docker.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Jenkins" width="26px" src="https://api.iconify.design/cib:jenkins.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="PhpStorm" width="26px" src="https://api.iconify.design/simple-icons:phpstorm.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="PHP" width="26px" src="https://api.iconify.design/cib:php.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Laravel" width="26px" src="https://api.iconify.design/cib:laravel.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Python" width="26px" src="https://api.iconify.design/cib:python.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Bash" width="26px" src="https://api.iconify.design/codicon:terminal-bash.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Css" width="26px" src="https://api.iconify.design/el:css.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Vue-js" width="26px" src="https://api.iconify.design/cib:vue-js.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+<img align="left" alt="Html" width="26px" src="https://api.iconify.design/icomoon-free:html-five.svg?download=true&box=true&color=%23626262&inline=false&height=auto" />
+
+<br />
+<br />
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dima-bzz&show_icons=true&theme=material-palenight" lt="dima-bzz github stats" />
